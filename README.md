@@ -1,7 +1,7 @@
-<h1 align="center"> Concessionária de Luxo </h1>
+<h1 align="center"> Relógio </h1>
 
 <p align="center">
-Página inicial de concessionária de carros de luxo 
+Marcador de horas em tempo real.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Página inicial de concessionária de carros de luxo
 <br>
 
 <p align="center">
-  <img alt="Concessionária" src=".github/Printcar.png" width="100%">
+  <img alt="Concessionária" src="relox.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,8 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto consiste na criação de um site dinâmico para a exibição e gestão de veículos, voltado para concessionárias, revendas de carros, ou qualquer empresa que deseje mostrar seu catálogo de veículos de forma profissional e acessível.
-
+Este projeto consiste na criação de um relógio que marca as horas em tempo real de acordo com o horário de brasília.
 
 ---
 

@@ -7,6 +7,7 @@ Marcador de horas em tempo real.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -26,6 +27,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Este projeto consiste na criação de um relógio que marca as horas em tempo real de acordo com o horário de brasília.
+
+## 🔗 Deploy
+
+Link do Projeto: https://r-logio.vercel.app/
 
 ---
 
